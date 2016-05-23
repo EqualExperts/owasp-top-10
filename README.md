@@ -1,7 +1,7 @@
 # OWASP Top 10 Wall Posters
 
-- Full Colour ()
-- Suitable for Black and white printer ()
+- [Full Colour](owasp_poster_colour.pdf)
+- [Suitable for greyscale printing](owasp_poster_grey.pdf)
 
 Recommend printing at A3 minimum.
 
