@@ -18,3 +18,5 @@ Little Bobby Tables from, the inimitable, [XKCD](http://xkcd.com/)
 [Attribution-NonCommercial 2.5 Generic](http://creativecommons.org/licenses/by-nc/2.5/)
 
 You can copy, share, adapt but not sell.
+
+You must (not really, but please do) tweet a picture of it in situ and tag [@EqualExperts](https://twitter.com/equalexperts)
